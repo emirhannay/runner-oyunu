@@ -1,0 +1,1 @@
+#koşma kodlarını yazdım.
